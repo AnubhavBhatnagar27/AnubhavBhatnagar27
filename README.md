@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavbhatnagar27" alt="anubhavbhatnagar27" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**,**Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnubhavBhatnagar27](https://github.com/AnubhavBhatnagar27)
 
